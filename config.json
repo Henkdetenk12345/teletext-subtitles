@@ -1,0 +1,12 @@
+{
+    "mode": "obs",
+    "teletext_host": "192.168.1.193",
+    "teletext_port": 19601,
+    "obs_host": "localhost",
+    "obs_port": 5555,
+    "obs_password": "",
+    "obs_source_name": "VT 1",
+    "off_air_message": "BMNTV1 is momenteel uit de lucht",
+    "subtitles_unavailable_message": "Ondertiteling is momenteel niet beschikbaar",
+    "subtitle_delay": 7.0
+}
